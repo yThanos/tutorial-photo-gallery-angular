@@ -1,0 +1,11 @@
+{
+  "appId": "br.ufsm.csi",
+  "appName": "mapa_ufsm",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
